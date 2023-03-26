@@ -1,3 +1,4 @@
 /target
 ^target/
 target
+jsproject/node_modules
